@@ -41,7 +41,7 @@ I'm Tiago Manuel
 
 <p align="center">
     <img alt="TiagoManuelPC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TiagoManuelPC&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-  <img alt="TiagoManuelPC's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoManuelPC&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="TiagoManuelPC's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoManuelPC&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 
