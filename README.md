@@ -30,12 +30,20 @@ I'm Tiago Manuel
 
 <br/>
 
-
+## Streak Stats
 
 <p align="center">
     <img title="My streak stats" alt="Tiago's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoManuelPC&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
   <p align="center"></p>
 </p>
+
+### GitHub Stats
+
+<p align="center">
+    <img alt="TiagoManuelPC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TiagoManuelPC&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="TiagoManuelPC's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoManuelPC&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
 
 
 <!--
