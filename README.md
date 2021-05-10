@@ -9,7 +9,7 @@ I'm Tiago Manuel
     
 
 
-## I'm a Junior Software Engineer in training
+## I'm a Junior Software Developer in training
 
 - I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
 - Fun facts: I love to collect Videogames
