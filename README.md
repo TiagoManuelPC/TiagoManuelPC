@@ -32,7 +32,10 @@ I'm Tiago Manuel
 
 [Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoManuelPC&theme=tokyonight&show_icons=true)
 
-
+<p align="center">
+    <img title="My streak stats" alt="Tiago's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoManuelPC&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <p align="center"></p>
+</p>
 
 
 <!--
