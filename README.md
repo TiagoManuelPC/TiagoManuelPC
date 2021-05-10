@@ -30,6 +30,8 @@ I'm Tiago Manuel
 
 <br/>
 
+[Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoManuelPC&theme=tokyonight&show_icons=true)
+
 
 
 
