@@ -11,7 +11,7 @@ I'm Tiago Manuel
 
 ## I'm a Junior Software Developer
 
-- I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
+- I’m a Graduate student from [Makers Academy](https://makers.tech/about-us/)
 - Fun facts: I love to collect Videogames
 
 
